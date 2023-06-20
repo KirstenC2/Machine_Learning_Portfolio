@@ -7,3 +7,5 @@
 
 The above results are the evaluation on the model developed.
 It shows that the model is performing well as trained and tested with the dataset.
+Based on different evaluation metric, the model is considered developed successfully.
+Random Forest is a machine learning algorithm that can perform well in predicting the risk of lung cancer.
