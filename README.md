@@ -11,3 +11,5 @@ This project was my Final year project.
 It is to develop a machine learning model which predict whether the lung cancer risk is there or not.
 By using the data from Kaggle, the model is trained and tested.
 Algorithm applied in this project is Random Forest, and output of the model is binary as it would classify the user "yes" or "no" for having lung cancer risk.
+- '/Project 1 Lung cancer risk prediction model/RF prediction system/' - This file contains the code of whold lung cancer risk prediction code.
+- '/Project 1 Lung cancer risk prediction model/survey lung cancer/' - This file contains the dataset used for the project
