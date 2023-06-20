@@ -1,0 +1,9 @@
+# Performance of the model
+## F1-score: 0.98
+## AUC-score: 0.98
+## Sensitivity: 0.96
+## Precision 1.00
+# MCC 0.96
+
+The above results are the evaluation on the model developed.
+It shows that the model is performing well as trained and tested with the dataset.
